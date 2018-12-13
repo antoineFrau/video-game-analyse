@@ -1,0 +1,62 @@
+{
+    "red_dead_redemption_2": {
+        "release_date": "2018-10-26",
+        "nb_tweets": 0,
+        "keyword": "Red Dead Redemption 2",
+        "sentiment": [],
+        "trends": {
+            "start_at": "2018-10-25",
+            "end_at": "2018-10-28",
+            "cities": {},
+            "evolutions": {}
+        }
+    },
+    "monster_hunter_world": {
+        "release_date": "2018-01-26",
+        "nb_tweets": 0,
+        "keyword": "Monster Hunter: World",
+        "sentiment": [],
+        "trends": {
+            "start_at": "2018-01-25",
+            "end_at": "2018-01-29",
+            "cities": {},
+            "evolutions": {}
+        }
+    },
+    "fallout_76": {
+        "release_date": "2018-11-14",
+        "nb_tweets": 0,
+        "keyword": "Fallout 76",
+        "sentiment": [],
+        "trends": {
+            "start_at": "2018-11-13",
+            "end_at": "2018-11-17",
+            "cities": {},
+            "evolutions": {}
+        }
+    },
+    "marvel_spider_man": {
+        "release_date": "2018-09-07",
+        "nb_tweets": 0,
+        "keyword": "Marvel Spider-Man",
+        "sentiment": [],
+        "trends": {
+            "start_at": "2018-09-06",
+            "end_at": "2018-09-10",
+            "cities": {},
+            "evolutions": {}
+        }
+    },
+    "god_of_war": {
+        "release_date": "2018-04-20",
+        "nb_tweets": 0,
+        "keyword": "God Of War",
+        "sentiment": [],
+        "trends": {
+            "start_at": "2018-04-19",
+            "end_at": "2018-04-23",
+            "cities": {},
+            "evolutions": {}
+        }
+    }
+}
