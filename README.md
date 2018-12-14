@@ -3,7 +3,7 @@ This work able me to predict the game of the 2018 on PS4. Using Big Data methodo
 https://github.com/antoineFrau/video-game-analyse 
 
 ## Requirements
-Use `pip 3 install` 
+Use command `pip3 install` to install thoses libraries
 
 python==3.7
 pip==3
